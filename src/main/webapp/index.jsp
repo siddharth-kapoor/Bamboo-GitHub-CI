@@ -9,7 +9,8 @@
   <%
     } else {
   %>
-      <h2>Well, life goes on and on... </h2><p>(<%= num %>)</p>
+      <h2>1st Comment added in DEVELOP branch!</h2>
+	  <h2>2nd Comment added in DEVELOP branch!</h2><p>(<%= num %>)</p>
   <%
     }
   %>
