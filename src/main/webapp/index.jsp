@@ -9,7 +9,8 @@
   <%
     } else {
   %>
-      <h2>Comment added in DEVELOP branch!</h2><p>(<%= num %>)</p>
+      <h2>1st Comment added in DEVELOP branch!</h2>
+	  <h2>2nd Comment added in DEVELOP branch!</h2><p>(<%= num %>)</p>
   <%
     }
   %>
