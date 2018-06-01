@@ -9,7 +9,7 @@
   <%
     } else {
   %>
-      <h2>Well, life goes on and on... </h2><p>(<%= num %>)</p>
+      <h2>!! Line added from FEATURE1 BRANCH !!</h2><p>(<%= num %>)</p>
   <%
     }
   %>
