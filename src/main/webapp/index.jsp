@@ -9,7 +9,7 @@
   <%
     } else {
   %>
-      <h2>line added from feature1 branch!!!!!!!!!!!!!!!!!!!</h2><p>(<%= num %>)</p>
+      <h2>line added from feature1 branch</h2><p>(<%= num %>)</p>
   <%
     }
   %>
